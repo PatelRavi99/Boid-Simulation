@@ -25,12 +25,12 @@ Boid Functionality:
 - Terrain avoidance: The Boids will avoid the terrain in their flight path (if a new terrain is generated it will adapt to the new terrain)
 
 Features from list:
-- Lighting [5 %]
-- Textures [10 %]
-- Picking[10 %]
-- Quaternion camera control [10%]
-- Terrain generation [10%]
-- Non geometric primitives (bitmaps for GUI) [10 %]
+- Lighting
+- Textures
+- Picking
+- Quaternion camera control
+- Terrain generation
+- Non geometric primitives (bitmaps for GUI)
 - Our Own ideas:
 	o Mini-map
 	o Boid camera POV
@@ -38,8 +38,3 @@ Features from list:
 
 To compile:
 - used regular make file.
-
-Group members:
--Ravi Patel
--Jan Ollers
--Linas Aleknevicius
